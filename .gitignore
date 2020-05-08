@@ -1,0 +1,16 @@
+ConsoleApp2.csproj
+bin/
+obj/ConsoleApp2.csproj.nuget.dgspec.json
+obj/ConsoleApp2.csproj.nuget.g.props
+obj/ConsoleApp2.csproj.nuget.g.targets
+obj/Debug/netcoreapp3.1/ConsoleApp2.AssemblyInfoInputs.cache
+obj/Debug/netcoreapp3.1/ConsoleApp2.assets.cache
+obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp3.1/ConsoleApp2.csprojAssemblyReference.cache
+obj/Debug/netcoreapp3.1/ConsoleApp2.dll
+obj/Debug/netcoreapp3.1/ConsoleApp2.exe
+obj/Debug/netcoreapp3.1/ConsoleApp2.genruntimeconfig.cache
+obj/Debug/netcoreapp3.1/ConsoleApp2.pdb
+obj/project.assets.json
+obj/project.nuget.cache
